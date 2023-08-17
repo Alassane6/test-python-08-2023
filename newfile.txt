@@ -1,0 +1,11 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is AAF0-2947
+
+ Directory of C:\Users\salam\repos\test-python-08-2023
+
+08/16/2023  08:37 PM    <DIR>          .
+08/16/2023  08:21 PM    <DIR>          ..
+08/16/2023  08:37 PM                 0 newfile.txt
+08/16/2023  08:22 PM                21 README.md
+               2 File(s)             21 bytes
+               2 Dir(s)  410,234,216,448 bytes free
